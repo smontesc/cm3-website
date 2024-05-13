@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Road to Riches  
 ---
 
 This is the home page of Rahul's CM3 website.
@@ -31,6 +31,6 @@ def add_two(x, y):
 
 Here is an image:
 
-![cute dog](https://i.imgur.com/dY93WHQ.jpeg)
+![Tony Montana](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etsy.com%2Flisting%2F1166927939%2Fscarface-tony-montana&psig=AOvVaw2PNlufuHibkQ1UNmzcRe99&ust=1715702903222000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjmg8aBi4YDFQAAAAAdAAAAABAE)
 
 This page illustrates low code principles. In exchange for giving up pixel-level control of the page you can make web pages easily through a simple text file.
